@@ -6,6 +6,8 @@ Image Classification Model Using Transfer Learning
 
 ## Concepts
 >Tranfer Learning Architecture: MobileNetCV2
+>Convolutinal Neural Network
+>OpenCV
 
 ## Final Result
 ![](Result1.png)
